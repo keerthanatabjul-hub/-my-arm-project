@@ -1,4 +1,4 @@
-# -my-arm-project
+# EcoLight Maestro
 # EcoLight Maestro: Real-Time IoT-Enabled Adaptive Smart Street Light Controller
 
 ## Project Overview
